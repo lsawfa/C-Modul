@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1639637910 source:e:\coding\zuper smart\main.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+
